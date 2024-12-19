@@ -1,6 +1,3 @@
-Here’s a detailed README file for your GitHub repository:
-
----
 
 # Case Study on Demand Forecasting and Wastage Prediction  
 
