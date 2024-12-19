@@ -92,8 +92,7 @@ The case study followed a systematic approach:
    ```  
 
 4. Visualize results:  
-   - Visualizations include time series plots, scatter plots, and heatmaps.  
-   - Check the `visualizations/` folder for generated figures.  
+   - Visualizations include time series plots, scatter plots, and heatmaps.   
 
 ---
 
